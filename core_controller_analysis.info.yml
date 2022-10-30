@@ -1,0 +1,4 @@
+name: 'core_controller_analysis'
+type: module
+core_version_requirement: '>=10'
+package: 'Custom'

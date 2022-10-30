@@ -1,0 +1,9 @@
+{
+    "name": "drupal/core_controller_analysis",
+    "type": "drupal-module",
+    "require": {
+        "php": ">=8.0",
+        "drupal/core": "^10",
+        "dpi/drupal-phpunit-bootstrap": "9.x-dev"
+    }
+}

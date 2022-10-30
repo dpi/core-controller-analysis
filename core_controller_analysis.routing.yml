@@ -1,0 +1,6 @@
+core_controller_analysis:
+  path: '/core_controller_analysis'
+  defaults:
+    _controller: '\Drupal\core_controller_analysis\Controller\Analysis'
+  requirements:
+    _permission: 'access content'
